@@ -5,8 +5,11 @@ For the paper, please check the file named : TextSummarization_T5_BERT_Seq2Seq.p
 Project information
 
 Category: Text Summarization (Generative)
+
 Project date: 8 December, 2023
+
 Project URL: : https://github.com/SiddhantSoam/Text_Summarization
+
 Paper: https://github.com/SiddhantSoam/Text_Summarization/blob/main/TextSummarization_T5_BERT_Seq2Seq.pdf
 
 Project Description
